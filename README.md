@@ -1,5 +1,9 @@
 # Backend Intern Task API
 
+
+
+
+
 Production-style REST API backend for managing users, projects, and daily progress reports in a construction or operations workflow. The service uses JWT authentication, role-based authorization, MySQL, and Sequelize in a clean MVC layout.
 
 ## Tech Stack
